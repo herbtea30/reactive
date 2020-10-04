@@ -7,10 +7,8 @@ import org.reactivestreams.Subscription;
 
 import java.util.Arrays;
 import java.util.Iterator;
-import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
 
 public class PubSub {
     public static void main(String[] args) {
